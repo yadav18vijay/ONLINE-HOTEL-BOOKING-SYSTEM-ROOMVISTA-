@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/d986a104-f572-40f3-8bf5-c34add00695c)
 ![image](https://github.com/user-attachments/assets/6fdb186d-148c-4129-a1ba-d3a7ff8f9cfa)
 
-1. Brief Description of the Project
+#1. Brief Description of the Project
 The Online Hotel Booking System is a web-based application that allows users to search for available hotel rooms, book accommodations, and manage their reservations efficiently. The system includes user authentication, room availability checks, secure payment processing, and an admin panel for managing bookings and room listings. The backend is built using Spring Boot with JWT authentication and AWS S3 integration, while the frontend is developed using React.js for a seamless user experience.
 
 
