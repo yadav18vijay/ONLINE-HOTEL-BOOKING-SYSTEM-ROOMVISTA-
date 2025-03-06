@@ -27,7 +27,8 @@ The Online Hotel Booking System is a web-based application that allows users to 
 This is a full-stack Hotel Booking System built using React.js for the frontend and Spring Boot for the backend. The project includes authentication, room management, booking functionalities, and admin features.
 
  # 5.Live Demo
-  [Watch the video on YouTube]https://www.youtube.com/watch?v=MXawNad_4Hk
+  [Watch the video on YouTube] https://www.youtube.com/watch?v=MXawNad_4Hk
+  [![Watch the video] https://www.youtube.com/watch?v=MXawNad_4Hk
 
 
  # 6.Tech Stack
