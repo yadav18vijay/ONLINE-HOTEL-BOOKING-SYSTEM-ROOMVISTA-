@@ -33,10 +33,15 @@ This is a full-stack Hotel Booking System built using React.js for the frontend 
 
  # 6.Tech Stack
  1.Frontend: React.js
+ 
  2.Backend: Spring Boot
+ 
  3.Database: MySQL
+ 
  4.Authentication: JWT
+ 
  5.Cloud Storage: AWS S3
+ 
  6.IDE Used: Eclipse
 
 # 7.Features
