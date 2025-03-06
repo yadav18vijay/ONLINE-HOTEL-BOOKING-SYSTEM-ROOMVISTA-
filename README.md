@@ -11,16 +11,24 @@ The Online Hotel Booking System is a web-based application that allows users to 
 
 # 2. Software Requirements for the Project
  1.Backend: Java (Spring Boot), Spring Security, JWT, Hibernate, AWS SDK
+ 
  2.Frontend: React.js, Redux, Axios, React Router
+ 
  3.Database: MySQL
+ 
  4.Cloud Services: AWS S3 (for storage)
+ 
  5.Development Tools: VS Code, Eclips, Postman, Git
 
  # 3. Hardware Requirements for the Project
  Processo: Intel i5 or higher
+ 
  1.RAM: 8GB or more
+ 
  2.Storage: Minimum 50GB free space
+ 
  3.Operating System: Windows 10/Linux/macOS
+ 
  4.Connection: Required for cloud-based services
 
  # 4.Project Overview
@@ -47,16 +55,25 @@ This is a full-stack Hotel Booking System built using React.js for the frontend 
 # 7.Features
 # Backend Features
  1.User authentication (JWT)
+ 
  2.Room management (CRUD operations)
+ 
  3.Booking system with real-time availability
+ 
  4.Admin panel for managing rooms and bookings
+ 
  5.AWS S3 integration for storing images
 
 # Frontend Features
  1.User-friendly UI with React.js
+ 
  2.Login & Registration pages
+ 
  3.Room search and filtering
+ 
  4.Room details and booking functionality
+ 
  5.Profile management
+ 
  6.Admin panel with protected routes
 ![image](https://github.com/user-attachments/assets/032e9ce6-52ff-4797-9a45-9a17df25ecfb)
